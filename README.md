@@ -41,6 +41,10 @@ Mobile - https://github.com/ThiagoDeJesus/NLW-Heat-ReactNative
 
 Micro serviço para obtenção das palavras mais comentadas - https://github.com/ThiagoDeJesus/NLW-Heat-Elixir
 
+<hr>
+
 Repositório original desenvolvido pela equipe da Rocketseat - https://github.com/rocketseat-education/nlw-heat-node
+
+<hr>
 
 Feito com ♥ by Thiago with Rocketseat 👋🏻
